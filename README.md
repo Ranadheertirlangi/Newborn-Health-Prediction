@@ -1,5 +1,5 @@
 # Newborn-Health-Prediction
-AI-powered system that predicts the health status of newborn babies using machine learning models based on medical and demographic data.
+This project aims to develop an intelligent system that predicts the health condition of newborn babies based on medical and physiological parameters. The goal is to assist healthcare professionals in identifying potential health risks at an early stage and improve neonatal care outcomes.
 
 ### Objective
 To analyze newborn health data and identify factors influencing health outcomes.
