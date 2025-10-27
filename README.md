@@ -47,7 +47,7 @@ Evaluated performance using metrics like Accuracy, Precision, Recall, and F1-Sco
 
 Visualized model performance with Confusion Matrix and ROC Curve.
 
-### Results
+## Results
 
 The XGBoost model achieved the best overall accuracy and balanced performance across metrics.
 
