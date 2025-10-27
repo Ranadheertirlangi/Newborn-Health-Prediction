@@ -46,3 +46,11 @@ XGBoost Classifier
 Evaluated performance using metrics like Accuracy, Precision, Recall, and F1-Score.
 
 Visualized model performance with Confusion Matrix and ROC Curve.
+
+### Results
+
+The XGBoost model achieved the best overall accuracy and balanced performance across metrics.
+
+Successfully mitigated data imbalance using SMOTE and Edited NN, improving recall for minority (At-Risk) cases.
+
+Model demonstrates potential as a decision-support tool for neonatal health monitoring.
