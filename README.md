@@ -10,12 +10,12 @@ To provide an interpretable model that can support early diagnosis and intervent
 
 ### Technologies Used
 
-Python
-Pandas, NumPy – Data processing
-Matplotlib, Seaborn – Data visualization
-Scikit-learn – Machine learning modeling
-Imbalanced-learn (imblearn) – Oversampling using SMOTE
-XGBoost, Random Forest, Logistic Regression – Classification models
+##### Python
+##### Pandas, NumPy – Data processing
+##### Matplotlib, Seaborn – Data visualization
+##### Scikit-learn – Machine learning modeling
+##### Imbalanced-learn (imblearn) – Oversampling using SMOTE
+##### XGBoost, Random Forest, Logistic Regression – Classification models
 
 ## Model Development Process
 
